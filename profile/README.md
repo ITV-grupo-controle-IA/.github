@@ -22,4 +22,4 @@ acelerar o trabalho de novos membros.
 
 ## Contato
 
-[Thomás Pinto / thomas.pinto@itv.org ]
+[Thomás Pinto](mailto:thomas.pinto@itv.org)
